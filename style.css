@@ -1,0 +1,12 @@
+* {
+  background-color: #ffe1a8;
+  color: #a75151;
+}
+
+.big-text {
+  font-family: 'Carter One', system-ui;
+}
+
+.recipe-name {
+  font-family: 'Laila', serif;
+}
